@@ -5,4 +5,4 @@
     - [x] Course 2: Cryptocurrency and Blockchain: An Introduction to Digital Currencies
     - [x] Course 3: Lending, Crowdfunding, and Modern Investing
     - [x] Course 4: Application of AI, InsurTech, and Real Estate Technology
-- [ ] Becoming an Entrepreneur | [Link](https://www.edx.org/course/becoming-an-entrepreneur?index=product&queryID=8ce10c19f7e405ec49cb7ef0c586bd6d&position=1) | [Notes](notes/business/becoming-an-entrepreneur.md)
+- [x] Becoming an Entrepreneur | [Link](https://www.edx.org/course/becoming-an-entrepreneur?index=product&queryID=8ce10c19f7e405ec49cb7ef0c586bd6d&position=1) | [Notes](notes/business/edx-becoming-an-entrepreneur/becoming-an-entrepreneur.md)
